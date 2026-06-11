@@ -53,7 +53,7 @@ Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en tres p
 
 ### 2.c. Arquitectura de la Información (Sitemap)
 
-[AÑADIR AQUÍ DIAGRAMA DE FLUJO O SITEMAP: `![Sitemap EcoMercado UGR](img/sitemap.png)`]
+[[Sitemap EcoMercado UGR](sitemap-eco-mercado-app.png)]
 
 *   **Secciones Principales de la App:**
     *   **Home / Evento:** Selector de campus, cuenta atrás para la próxima edición y agenda de talleres del día.
