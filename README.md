@@ -27,6 +27,7 @@ Para abordar este caso de estudio, se ha seleccionado la plataforma **Huerta Mad
 2.  **Deficiencia en Accesibilidad Visual (Criterio 38):** Las tipografías de los textos secundarios emplean un tono gris claro sobre fondo blanco que viola el criterio 1.4.3 de la WCAG AA (ratio inferior a 4.5:1), limitando la legibilidad.
 3.  **Falta de Aceleradores (Criterio 4):** No existen opciones de "Compra rápida" o "Repetir último pedido" para usuarios recurrentes, obligando a realizar todo el camino cognitivo en cada interacción.
 
+---
 
 ## 2. PARTE B: Propuesta de Valor y Modelado para ECOMERCADO UGR
 
