@@ -10,7 +10,7 @@ Este proyecto plantea una solución digital integral (enfocada en formato móvil
 
 A través del análisis heurístico de iniciativas reales y la aplicación de metodologías de Diseño Centrado en el Usuario (DCU), esta propuesta busca resolver las barreras de accesibilidad y visibilidad actuales, ofreciendo una experiencia interactiva que facilite la localización de puestos, la consulta de calendarios y la reserva de productos sostenibles directamente en el campus.
 
-### Miembros del equipo
+### Trabajo realizado por: 
 * :bust_in_silhouette: Marcos García Álvarez
 
 -----
