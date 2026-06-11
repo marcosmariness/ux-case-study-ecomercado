@@ -33,7 +33,7 @@ Para abordar este caso de estudio, se ha seleccionado la plataforma **Huerta Mad
 
 Tomando como base las debilidades detectadas en la competencia (Huerta Madrid) y explotando la información de las jornadas de *Impronta Granada*, el **EcoMercado UGR** se define no como un e-commerce tradicional a domicilio, sino como un **evento presencial, itinerante y comunitario dentro de los campus universitarios**.
 
-### 2.a. Modelado de Usuarios (Proto-Personas)
+### 2.a. Modelado de Usuarios
 
 #### Perfil 1: El Estudiante Universitario (Consumidor Target)
 *   **Nombre:** Javi Jodar, 22 años. Estudiante de Ingeniería Informática (Campus de Aynadamar).
