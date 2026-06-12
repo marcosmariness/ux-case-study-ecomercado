@@ -61,7 +61,7 @@ Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en tres p
     *   **Catálogo / Cestas:** Stock disponible de los productores locales para reserva.
     *   **Mis Reservas:** Historial y códigos QR activos para la recogida rápida en los puestos.
 
-### 2.d. Planteamiento del Boceto (Wireframes)
+### 2.d. Wireframes
 
 A continuación se detalla la distribución de componentes visuales en formato móvil para mitigar las sobrecargas cognitivas y guiar el flujo de tareas del usuario:
 
