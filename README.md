@@ -46,7 +46,7 @@ Para empatizar y comprender las fricciones del servicio presencial, se diseñaro
     *   **Artefacto de Diseño:** [Ficha de Persona y User Journey Map 2 (PDF)](01_Investigacion_y_Estrategia/Persona%20%26%20User%20Journey%20Map_2.pdf)
 
 ### 2.b. Definición de la Propuesta de Valor: "EcoMercado UGR App"
-Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en tres pilares interactivos:
+Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en dos pilares interactivos:
 1.  **Enfoque de Localización Temprana:** Al abrir la app, el usuario selecciona su campus. La interfaz filtra automáticamente las fechas de las próximas ediciones y los productores específicos que asistirán a ese espacio.
 2.  **Pre-reserva Express ("Click & Collect"):** El alumno reserva su cesta ecológica con antelación. La app genera un código QR único de recogida. El cobro se realiza en mano en el puesto físico (Efectivo/Bizum), eliminando pasarelas complejas.
 
