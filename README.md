@@ -97,7 +97,7 @@ Esquema de distribución de componentes e interfaz analógica optimizada para di
 ### 2.e. Moodboard y Estrategia de Marca
 Diseño de identidad visual que equilibra la oficialidad de la institución con la frescura de los cultivos locales de proximidad:
 
-![Moodboard Guidelines](03_Diseño_UI_y_Prototipo/Moodboard-ecomercado.png)
+![Moodboard Guidelines](03_Diseno_UI_y_Prototipo/Moodboard-ecomercado.png)
 
 *   **Estrategia del Logotipo:** Isotipo moderno y minimalista que fusiona la silueta de una cesta de mimbre orgánica con una hoja viva y detalles circulares que evocan frutas/semillas, integrando el imagotipo institucional de la Universidad de Granada (UGR).
 *   **Paleta de Colores Corporativa:**
@@ -111,7 +111,7 @@ Diseño de identidad visual que equilibra la oficialidad de la institución con 
 ### 2.f. Mockups (Diseño de Alta Fidelidad de la Interfaz)
 Estructura final de la aplicación móvil tras procesar los requerimientos de diseño limpio, alineación mediante *Auto Layout* simétrico por componentes, y consistencia de marca:
 
-![Mockups de Alta Fidelidad](03_Diseño_UI_y_Prototipo/mockups-ecomercado.png)
+![Mockups de Alta Fidelidad](03_Diseno_UI_y_Prototipo/mockups-ecomercado.png)
 
 1.  **Vista 0 (Selección de Campus):** El punto de partida obligado. Presenta tarjetas de radio activas con bordes definidos para contextualizar la app.
 2.  **Vista 1 (Home Dashboard):** Menú superior con el avatar del usuario y un botón dinámico flotante alineado a la parte superior derecha (`Space Between`) que permite regresar instantáneamente a la selección de campus mediante un clic. Destaca el banner verde de la próxima edición.
