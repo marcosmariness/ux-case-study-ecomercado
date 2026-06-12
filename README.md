@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/46311398-3bef-4894-8eb3-3de1b410c3c2
+
 # My UX-Case Study
 
 -----
@@ -95,6 +99,14 @@ Para validar el flujo de navegación entre pantallas (`Campus ➔ Home ➔ Cesta
 <p align="center">
   <video src="video_app_ecomercado.mp4" width="80%" controls></video>
 </p>
+
+
+https://github.com/user-attachments/assets/789476f3-cf45-4148-92a6-bf4859d7aa66
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/789476f3-cf45-4148-92a6-bf4859d7aa66" width="80%" controls></video>
+</p>
+
 
 *   **Enlace de Navegación del Prototipo:** [App Interactiva de EcoMercado UGR](https://www.figma.com/make/ol6wTdBjItQX9e6kfF1if9/E-commerce-app-development?fullscreen=1&t=sOpgBXERDR74N7UN-1&code-node-id=0-9)
 
