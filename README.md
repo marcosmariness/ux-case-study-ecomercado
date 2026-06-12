@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/46311398-3bef-4894-8eb3-3de1b410c3c2
-
 # My UX-Case Study
 
 -----
@@ -95,11 +91,6 @@ Estructura final de la aplicación móvil tras procesar los requerimientos de di
 
 ### 2.g. Prototipo Interactivo Recreado por IA (Figma Make & React)
 Para validar el flujo de navegación entre pantallas (`Campus ➔ Home ➔ Cestas ➔ Detalle ➔ Generar QR ➔ Ticket`), se presenta a continuación la demo técnica del comportamiento interactivo de la interfaz:
-
-<p align="center">
-  <video src="video_app_ecomercado.mp4" width="80%" controls></video>
-</p>
-
 
 https://github.com/user-attachments/assets/789476f3-cf45-4148-92a6-bf4859d7aa66
 
