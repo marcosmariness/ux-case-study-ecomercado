@@ -17,8 +17,8 @@ A través del análisis heurístico de iniciativas reales y la aplicación de me
 
 Para abordar este caso de estudio, se ha seleccionado la plataforma **Huerta Madrid** (`nuestrashuertas.com`) con el objetivo de evaluar su comportamiento en usabilidad, accesibilidad y experiencia de usuario. 
 
-*   **Documento de Evaluación Completo:** [Usability Review de Huerta Madrid (PDF)](Usability-review-template-2.pdf)
-*   **Matriz Escrita de Criterios (Excel):** [Usability Review Sheet (XLS)](Usability-review-template.xls)
+*   **Documento de Evaluación Completo:** [Usability Review de Huerta Madrid (PDF)](01_Investigacion_y_Estrategia/Usability-review-template-2.pdf)
+*   **Matriz Escrita de Criterios (Excel):** [Usability Review Sheet (XLS)](01_Investigacion_y_Estrategia/Usability-review-template.xls)
 *   **Puntuación Global Obtenida:** **72 / 100** (Nivel de Usabilidad: **Good**)
 
 ### Principales Hallazgos y Fricciones Detectadas
@@ -38,12 +38,12 @@ Para empatizar y comprender las fricciones del servicio presencial, se diseñaro
 *   **Perfil 1: El Estudiante Universitario (Consumidor Target)**  
     *   **Nombre:** Javi Jódar, 22 años. Estudiante de Ingeniería Informática (Campus de Aynadamar).
     *   **UX Insight:** Necesita inmediatez. Le frustran las colas y teme acudir al mercado en su descanso de 20 minutos y que se haya agotado el stock.
-    *   **Artefacto de Diseño:** [Ficha de Persona y User Journey Map 1 (PDF)](Persona%20%26%20User%20Journey%20Map_1.pdf)
+    *   **Artefacto de Diseño:** [Ficha de Persona y User Journey Map 1 (PDF)](01_Investigacion_y_Estrategia/Persona%20%26%20User%20Journey%20Map_1.pdf)
 
 *   **Perfil 2: El Productor Local (Proveedor del Mercado)**  
     *   **Nombre:** Encarni Pérez, 48 años. Agricultora de la Vega de Granada.
     *   **UX Insight:** Nivel tecnológico medio/básico. Requiere saber cuántas cestas tiene vendidas con precisión antes de salir de la huerta para no cosechar de más.
-    *   **Artefacto de Diseño:** [Ficha de Persona y User Journey Map 2 (PDF)](Persona%20%26%20User%20Journey%20Map_2.pdf)
+    *   **Artefacto de Diseño:** [Ficha de Persona y User Journey Map 2 (PDF)](01_Investigacion_y_Estrategia/Persona%20%26%20User%20Journey%20Map_2.pdf)
 
 ### 2.b. Definición de la Propuesta de Valor: "EcoMercado UGR App"
 Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en tres pilares interactivos:
@@ -52,7 +52,7 @@ Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en tres p
 
 ### 2.c. Scope Canvas: EcoMercado UGR
 
-![Scope Canvas del EcoMercado UGR](scope_canvas.png)
+![Scope Canvas del EcoMercado UGR](01_Investigacion_y_Estrategia/scope_canvas.png)
 
 ### 2.d. Matriz de Prioridad por Grupos de Usuario y User Flow Task Analysis
 
@@ -74,22 +74,22 @@ A continuación se detallan los diagramas de flujo de las dos tareas principales
 #### Flujo Principal: Click & Collect (Pre-reserva)
 **Contexto:** El estudiante necesita asegurar la compra de su cesta semanal antes de que se agote, en un proceso sin fricciones y sin pasarela de pago para recogerla rápido en su descanso.
 
-![Diagrama User Flow: Click & Collect](flow_task_1.png)
+![Diagrama User Flow: Click & Collect](02_Arquitectura_UX/flow_task_1.png)
 
 #### Flujo Secundario: Localización y Recogida
 **Contexto:** El estudiante se encuentra en el campus, abre su reserva activa y necesita localizar el puesto físico de forma guiada para abonar el importe y retirar su pedido.
 
-![Diagrama User Flow: Wayfinding & Pick-up](flow_task_2.png)
+![Diagrama User Flow: Wayfinding & Pick-up](02_Arquitectura_UX/flow_task_2.png)
 
 ### 2.c. Arquitectura de la Información (Sitemap)
 Estructura clara de pestañas e interacciones globales diseñada para reducir la sobrecarga cognitiva:
 
-![Sitemap EcoMercado UGR](sitemap-eco-mercado-app.png)
+![Sitemap EcoMercado UGR](02_Arquitectura_UX/sitemap-eco-mercado-app.png)
 
 ### 2.d. Wireframes (Bocetos de Baja Fidelidad)
 Esquema de distribución de componentes e interfaz analógica optimizada para dispositivos táctiles (siguiendo la Ley de Fitts):
 
-![Wireframes Móvil](wireframes_ecomercado.png)
+![Wireframes Móvil](02_Arquitectura_UX/wireframes_ecomercado.png)
 
 *   **Pantalla de Inicio (Filtro de Contexto):** Centrada en un selector prominente de campus para mitigar errores de distribución espacial.
 *   **Flujo Sin Fricciones:** Fichas de producto expandidas a pantalla completa que muestran de forma transparente el peso, contenido y precio cerrado de la cesta antes de pulsar el botón de acción principal (CTA).
@@ -97,7 +97,7 @@ Esquema de distribución de componentes e interfaz analógica optimizada para di
 ### 2.e. Moodboard y Estrategia de Marca
 Diseño de identidad visual que equilibra la oficialidad de la institución con la frescura de los cultivos locales de proximidad:
 
-![Moodboard Guidelines](Moodboard-ecomercado.png)
+![Moodboard Guidelines](03_Diseño_UI_y_Prototipo/Moodboard-ecomercado.png)
 
 *   **Estrategia del Logotipo:** Isotipo moderno y minimalista que fusiona la silueta de una cesta de mimbre orgánica con una hoja viva y detalles circulares que evocan frutas/semillas, integrando el imagotipo institucional de la Universidad de Granada (UGR).
 *   **Paleta de Colores Corporativa:**
@@ -111,7 +111,7 @@ Diseño de identidad visual que equilibra la oficialidad de la institución con 
 ### 2.f. Mockups (Diseño de Alta Fidelidad de la Interfaz)
 Estructura final de la aplicación móvil tras procesar los requerimientos de diseño limpio, alineación mediante *Auto Layout* simétrico por componentes, y consistencia de marca:
 
-![Mockups de Alta Fidelidad](mockups-ecomercado.png)
+![Mockups de Alta Fidelidad](03_Diseño_UI_y_Prototipo/mockups-ecomercado.png)
 
 1.  **Vista 0 (Selección de Campus):** El punto de partida obligado. Presenta tarjetas de radio activas con bordes definidos para contextualizar la app.
 2.  **Vista 1 (Home Dashboard):** Menú superior con el avatar del usuario y un botón dinámico flotante alineado a la parte superior derecha (`Space Between`) que permite regresar instantáneamente a la selección de campus mediante un clic. Destaca el banner verde de la próxima edición.
