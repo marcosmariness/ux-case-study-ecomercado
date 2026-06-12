@@ -77,6 +77,10 @@ A continuación se detalla la distribución de componentes visuales en formato m
 
 * Enlace de los mockups en Figma: [Mockups](https://www.figma.com/board/HQefV7uz7o2UffTjgRF1U0/Mockups_ecomercado?node-id=0-1&t=S7fU00QZI71iET7B-1)
 
+### 2. g. Prototipo de la App Ecomercado Ugr
+
+[App Ecomercado UGR](https://www.figma.com/make/ol6wTdBjItQX9e6kfF1if9/E-commerce-app-development?t=fh8MtgxOhc1XqfB7-1)
+
 ---
 
 ## 3. PARTE C: Auto-evaluación y Conexión con las Prácticas
