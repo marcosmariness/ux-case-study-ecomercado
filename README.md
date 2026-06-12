@@ -1,4 +1,4 @@
-# Paso 0: My UX-Case Study
+# My UX-Case Study
 
 -----
 
