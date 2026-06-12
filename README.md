@@ -90,7 +90,7 @@ Estructura final de la aplicación móvil tras procesar los requerimientos de di
 *   **Lienzo del Espacio de Trabajo:** [Mesa de Trabajo Completa en Figma](https://www.figma.com/board/HQefV7uz7o2UffTjgRF1U0/Mockups_ecomercado?node-id=0-1&t=S7fU00QZI71iET7B-1)
 
 ### 2.g. Prototipo Interactivo Recreado por IA (Figma Make & React)
-Para validar el flujo de navegación entre pantallas (`Campus ➔ Home ➔ Cestas ➔ Detalle ➔ Generar QR ➔ Ticket`), se ha exportado el comportamiento lógico del prototipo táctil de Figma:
+Para validar el flujo de navegación entre pantallas (`Campus ➔ Home ➔ Cestas ➔ Detalle ➔ Generar QR ➔ Ticket`), se presenta a continuación la demo técnica del comportamiento interactivo de la interfaz:
 
 <video src="video_app_ecomercado.webm" controls width="100%" poster="mockups-ecomercado.png">
   Tu navegador no admite la reproducción de este vídeo.
