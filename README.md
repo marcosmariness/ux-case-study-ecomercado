@@ -92,7 +92,10 @@ Estructura final de la aplicación móvil tras procesar los requerimientos de di
 ### 2.g. Prototipo Interactivo Recreado por IA (Figma Make & React)
 Para validar el flujo de navegación entre pantallas (`Campus ➔ Home ➔ Cestas ➔ Detalle ➔ Generar QR ➔ Ticket`), se ha exportado el comportamiento lógico del prototipo táctil de Figma:
 
-*   **Vídeo de Demostración del Flujo:** [Visualizar vídeo de interacción técnica de la App](video_app_ecomercado.webm)
+<video src="video_app_ecomercado.webm" controls width="100%" poster="mockups-ecomercado.png">
+  Tu navegador no admite la reproducción de este vídeo.
+</video>
+
 *   **Enlace de Navegación del Prototipo:** [App Interactiva de EcoMercado UGR](https://www.figma.com/make/ol6wTdBjItQX9e6kfF1if9/E-commerce-app-development?fullscreen=1&t=sOpgBXERDR74N7UN-1&code-node-id=0-9)
 
 ---
