@@ -114,5 +114,5 @@ En un escenario de diseño y desarrollo profesional real, el proyecto requerirí
 3.  **Análisis de Comportamiento Interactivo (Heatmaps):** De cara a un lanzamiento en beta, la implementación de mapas de calor (*Heatmaps* de clics y scroll) permitiría auditar el comportamiento silencioso del usuario. Serviría para confirmar empíricamente si la ubicación prominente del selector de campus atrapa la atención inicial, y si el diseño expandido del botón de reserva cumple verdaderamente con la Ley de Fitts en pantallas móviles táctiles reales.
 4.  **Diseño del Panel del Proveedor (Back-End UI):** Una app bifásica requiere diseñar la contrapartida del agricultor. Para asegurar la viabilidad del EcoMercado, es crítico conceptualizar una interfaz extremadamente simplificada que permita a productores como Encarni actualizar sus existencias en tiempo real desde el campo.
 
-### 📝 Conclusión Final
+### Conclusión Final
 Este ejercicio evidencia que las metodologías de Diseño Centrado en el Usuario (DCU) aplicadas en el marco práctico de la asignatura capacitan para auditar con rigor técnico cualquier ecosistema digital, dotándonos de herramientas analíticas maduras para afrontar el planteamiento y conceptualización de productos interactivos en el mercado laboral real.
