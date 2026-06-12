@@ -50,6 +50,37 @@ Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en tres p
 1.  **Enfoque de Localización Temprana:** Al abrir la app, el usuario selecciona su campus. La interfaz filtra automáticamente las fechas de las próximas ediciones y los productores específicos que asistirán a ese espacio.
 2.  **Pre-reserva Express ("Click & Collect"):** El alumno reserva su cesta ecológica con antelación. La app genera un código QR único de recogida. El cobro se realiza en mano en el puesto físico (Efectivo/Bizum), eliminando pasarelas complejas.
 
+### 2.c. Scope Canvas: EcoMercado UGR
+
+![Scope Canvas del EcoMercado UGR](Scope Canvas_ecomercado.pdf)
+
+### 2.d. Matriz de Prioridad por Grupos de Usuario y User Flow Analysis
+
+| Tareas / Casos de Uso | Estudiante (Javi) | Productor (Encarni) | Organizador (UGR) |
+| :--- | :---: | :---: | :---: |
+| Consultar horario y campus activo | H | L | H |
+| Explorar catálogo de cestas | H | L | M |
+| Reservar cesta (Click & Collect) | H | - | - |
+| Consultar mapa geolocalizado | H | L | M |
+| Mostrar QR para recogida | H | - | - |
+| Escanear QR y confirmar entrega | - | H | L |
+| Gestionar stock y añadir productos | - | H | M |
+| Consultar agenda de actividades | M | M | H |
+
+*(Leyenda: **H** = High/Alta, **M** = Medium/Media, **L** = Low/Baja, **-** = Nula)*
+
+A continuación se detallan los diagramas de flujo de las dos tareas principales que resuelven las necesidades detectadas en el Scope Canvas:
+
+#### Flujo Principal: Click & Collect (Pre-reserva)
+**Contexto:** El estudiante necesita asegurar la compra de su cesta semanal antes de que se agote, en un proceso sin fricciones y sin pasarela de pago para recogerla rápido en su descanso.
+
+![Diagrama User Flow: Click & Collect](flow_task_1.png)
+
+#### Flujo Secundario: Localización y Recogida
+**Contexto:** El estudiante se encuentra en el campus, abre su reserva activa y necesita localizar el puesto físico de forma guiada para abonar el importe y retirar su pedido.
+
+![Diagrama User Flow: Wayfinding & Pick-up](flow_task_2.png)
+
 ### 2.c. Arquitectura de la Información (Sitemap)
 Estructura clara de pestañas e interacciones globales diseñada para reducir la sobrecarga cognitiva:
 
