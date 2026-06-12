@@ -70,6 +70,13 @@ A continuación se detalla la distribución de componentes visuales en formato m
 *   **Pantalla de Inicio (Filtro de Contexto):** Centrada en un selector prominente de campus. Prioriza los accesos directos al mapa físico y al listado de productores confirmados para la fecha actual, reduciendo la densidad de bloques de texto genéricos.
 *   **Pantalla de Ficha y Reserva (Frictionless):** Botón de llamada a la acción (CTA) de reserva en un formato expandido a lo ancho de la pantalla (siguiendo la Ley de Fitts para entornos táctiles), mostrando de forma transparente el peso, contenido y precio cerrado de la cesta.
 
+### 2. e. Moodboard
+
+
+### 2. f. Mockups
+
+* Enlace de los mockups en Figma: [Mockups](https://www.figma.com/board/HQefV7uz7o2UffTjgRF1U0/Mockups_ecomercado?node-id=0-1&t=S7fU00QZI71iET7B-1)
+
 ---
 
 ## 3. PARTE C: Auto-evaluación y Conexión con las Prácticas
