@@ -54,7 +54,7 @@ Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en tres p
 
 ![Scope Canvas del EcoMercado UGR](scope_canvas.png)
 
-### 2.d. Matriz de Prioridad por Grupos de Usuario y User Flow Analysis
+### 2.d. Matriz de Prioridad por Grupos de Usuario y User Flow Task Analysis
 
 | Tareas / Casos de Uso | Estudiante (Javi) | Productor (Encarni) | Organizador (UGR) |
 | :--- | :---: | :---: | :---: |
