@@ -52,7 +52,7 @@ Diseñamos una solución bajo filosofía **Mobile-First** fundamentada en tres p
 
 ### 2.c. Scope Canvas: EcoMercado UGR
 
-![Scope Canvas del EcoMercado UGR](Scope Canvas_ecomercado.pdf)
+![Scope Canvas del EcoMercado UGR](scope_canvas.png)
 
 ### 2.d. Matriz de Prioridad por Grupos de Usuario y User Flow Analysis
 
