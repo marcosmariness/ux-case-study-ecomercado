@@ -79,7 +79,7 @@ A continuación se detalla la distribución de componentes visuales en formato m
 
 ### 2. g. Prototipo de la App Ecomercado Ugr
 
-[App Ecomercado UGR]([https://www.figma.com/make/ol6wTdBjItQX9e6kfF1if9/E-commerce-app-development?t=fh8MtgxOhc1XqfB7-1](https://www.figma.com/make/ol6wTdBjItQX9e6kfF1if9/E-commerce-app-development?fullscreen=1&t=4Nf53IvOoi8SgbXW-1&code-node-id=0-9))
+[App Ecomercado UGR](https://www.figma.com/make/ol6wTdBjItQX9e6kfF1if9/E-commerce-app-development?fullscreen=1&t=sOpgBXERDR74N7UN-1&code-node-id=0-9)
 
 ---
 
