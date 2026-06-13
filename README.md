@@ -147,3 +147,10 @@ En un escenario de diseño y desarrollo profesional real, el proyecto requerirí
 
 ### Conclusión Final
 Este ejercicio evidencia que las metodologías de Diseño Centrado en el Usuario (DCU) aplicadas en el marco práctico de la asignatura capacitan para auditar con rigor técnico cualquier ecosistema digital, dotándonos de herramientas analíticas maduras para afrontar el planteamiento y conceptualización de productos interactivos en el mercado laboral real.
+
+## Referencias y Bibliografía
+
+* **Nielsen, J. (1994).** *Enhancing the explanatory power of usability heuristics.* Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. (Aplicado en el análisis heurístico de la Parte A).
+* **W3C (2018).** *Web Content Accessibility Guidelines (WCAG) 2.1.* Criterio de conformidad 1.4.3 (Contraste). (Aplicado en la auditoría visual de Huerta Madrid y paleta de EcoMercado UGR).
+* **Fitts, P. M. (1954).** *The information capacity of the human motor system in controlling the amplitude of movement.* Journal of Experimental Psychology. (Aplicado en el diseño dimensional de los CTA en los Wireframes móviles).
+* **Impronta Granada (UGR).** *Jornada inaugural del EcoMercado UGR y Crónica de la edición de Mayo.* Recuperado de: https://improntagranada.es/ (Fuentes institucionales utilizadas para el modelo de negocio Click & Collect).
