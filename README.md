@@ -81,12 +81,12 @@ A continuación se detallan los diagramas de flujo de las dos tareas principales
 
 ![Diagrama User Flow: Wayfinding & Pick-up](02_Arquitectura_UX/flow_task_2.png)
 
-### 2.c. Arquitectura de la Información (Sitemap)
+### 2.e. Arquitectura de la Información (Sitemap)
 Estructura clara de pestañas e interacciones globales diseñada para reducir la sobrecarga cognitiva:
 
 ![Sitemap EcoMercado UGR](02_Arquitectura_UX/sitemap-eco-mercado-app.png)
 
-### 2.d. Wireframes (Bocetos de Baja Fidelidad)
+### 2.f. Wireframes (Bocetos de Baja Fidelidad)
 Esquema de distribución de componentes e interfaz analógica optimizada para dispositivos táctiles (siguiendo la Ley de Fitts):
 
 ![Wireframes Móvil](02_Arquitectura_UX/wireframes_ecomercado.png)
@@ -94,7 +94,7 @@ Esquema de distribución de componentes e interfaz analógica optimizada para di
 *   **Pantalla de Inicio (Filtro de Contexto):** Centrada en un selector prominente de campus para mitigar errores de distribución espacial.
 *   **Flujo Sin Fricciones:** Fichas de producto expandidas a pantalla completa que muestran de forma transparente el peso, contenido y precio cerrado de la cesta antes de pulsar el botón de acción principal (CTA).
 
-### 2.e. Moodboard y Estrategia de Marca
+### 2.g. Moodboard y Estrategia de Marca
 Diseño de identidad visual que equilibra la oficialidad de la institución con la frescura de los cultivos locales de proximidad:
 
 ![Moodboard Guidelines](03_Diseno_UI_y_Prototipo/Moodboard-ecomercado.png)
@@ -108,7 +108,7 @@ Diseño de identidad visual que equilibra la oficialidad de la institución con 
     *   `#D35400` *(Tono Tierra/Arcilla)*: Detalla y aporta calidez artesanal a los elementos secundarios.
 *   **Tipografía:** *Montserrat* (en pesos Bold/Black) para otorgar contundencia geométrica y moderna a los encabezados del campus, combinado con *Inter* para garantizar legibilidad de escaneo rápido en las descripciones de las cestas.
 
-### 2.f. Mockups (Diseño de Alta Fidelidad de la Interfaz)
+### 2.h. Mockups (Diseño de Alta Fidelidad de la Interfaz)
 Estructura final de la aplicación móvil tras procesar los requerimientos de diseño limpio, alineación mediante *Auto Layout* simétrico por componentes, y consistencia de marca:
 
 ![Mockups de Alta Fidelidad](03_Diseno_UI_y_Prototipo/mockups-ecomercado.png)
@@ -120,7 +120,7 @@ Estructura final de la aplicación móvil tras procesar los requerimientos de di
 
 *   **Lienzo del Espacio de Trabajo:** [Mesa de Trabajo Completa en Figma](https://www.figma.com/board/HQefV7uz7o2UffTjgRF1U0/Mockups_ecomercado?node-id=0-1&t=S7fU00QZI71iET7B-1)
 
-### 2.g. Prototipo Interactivo Recreado por IA (Figma Make & React)
+### 2.i. Prototipo Interactivo Recreado por IA (Figma Make & React)
 Para validar el flujo de navegación entre pantallas (`Campus ➔ Home ➔ Cestas ➔ Detalle ➔ Generar QR ➔ Ticket`), se presenta a continuación la demo técnica del comportamiento interactivo de la interfaz:
 
 https://github.com/user-attachments/assets/789476f3-cf45-4148-92a6-bf4859d7aa66
